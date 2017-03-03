@@ -16,7 +16,7 @@
 哎呀, 字体显示不全了...  哎呀, 那个像个Padding的东西还在! 于是你就开始琢磨, 设置padding=0 不行, 设置padding<0 可以了, 然后该怎么做屏幕适配呢?<br/>
 于是你又开始去网上找, 大都无一例外, 很多人告诉你设置: android:includeFontPadding="false"<br/>
 
-<img src="screenshot/Screenshot_20170302-205708.png" width="320px"/><br/>
+<img src="screenshot/Screenshot_20170302-210205.png" width="320px"/><br/>
 
 嗯, 好像可以了... 不! 不够完美! 还有一点padding, 或者字体不居中...  不行, 我是强迫症, 我要去掉它! 然后你通过常规的尝试, 仍然不行.<br/>
 最后, 脑子一转, 设置不了难道我不能自定义吗?<br/>
