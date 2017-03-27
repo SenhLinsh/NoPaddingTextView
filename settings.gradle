@@ -1,1 +1,1 @@
-include ':nopaddingtextview'
+include ':nopaddingtextview', ':demo'
